@@ -5,8 +5,11 @@
     height: 100vh;
 }
 .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background: #0f96ce;
-    height: 10%
+    height: 15%
 
 }
 .aside{
@@ -15,15 +18,38 @@
     width: 30%;
     height: 75%;
 
+
+
 }
 .main{
     display:  inline-block;
     background: #da0e0e;
-    width: 69%;
-    height:75%;
+    width: 65%;
+    height:40%;
 }
 .footer{
-    background : #3a8c1e;
+    background : #acaee5;
     width: 100%;
     height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #d4e6ee;
+}
+.logo{
+    width: 90px;
+    margin-left: 34px;
+    border-radius: 33px ;
+
+}
+.avatar{
+    width: 90px;
+    margin-left: 34px;
+    border-radius: 22px ;
+}
+.aside a{
+    color: #a10808;
+    margin-top: 5px;
+    display:inline-block ;
+    margin-left: 10px;
 }

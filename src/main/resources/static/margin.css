@@ -1,0 +1,17 @@
+.body{
+    margin: 10px;
+    width: 100vw;
+    height: 100vh;
+}
+.first{
+    border: 5px solid red;
+   margin-bottom: 10px;
+
+
+
+}
+.second{
+    border: 5px solid green;
+    margin-top: 5px;
+
+}

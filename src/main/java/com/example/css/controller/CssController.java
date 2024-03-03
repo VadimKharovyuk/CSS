@@ -22,4 +22,8 @@ public class CssController {
     public String display(){
         return "display";
     }
+    @GetMapping("four")
+    public String margin(){
+        return "margin";
+    }
 }
