@@ -1,6 +1,12 @@
 body{
     background: #e9e7ee;
 }
-span{
-    color: blue;
+.hello{
+    color: #0f96ce;
+}
+.word{
+    color: #20773d;
+}
+.yes{
+    color: orange;
 }

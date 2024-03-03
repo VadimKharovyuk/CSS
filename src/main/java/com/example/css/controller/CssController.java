@@ -10,4 +10,8 @@ public class CssController {
     public String home(){
         return "style_color";
     }
+    @GetMapping("/two")
+    public String tho(){
+        return "class_id";
+    }
 }
