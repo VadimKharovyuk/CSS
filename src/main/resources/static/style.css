@@ -1,5 +1,5 @@
 body{
-    background: #e9e7ee;
+    background: #d1bde3;
 }
 .hello{
     color: #0f96ce;
@@ -9,4 +9,7 @@ body{
 }
 .yes{
     color: orange;
+}
+.vadim{
+    background: #0f96ce;
 }
