@@ -1,0 +1,27 @@
+
+.body{
+    width: 100vw;
+    margin: 0;
+    height: 100vh;
+}
+.header{
+    background: #0f96ce;
+    height: 10%
+
+}
+.aside{
+    display:  inline-block;
+    background: #e7d50d;
+    width: 30%;
+    height: 90%;
+
+}
+.main{
+    display:  inline-block;
+    background: #da0e0e;
+    width: 68%;
+    height:90%;
+
+
+
+}

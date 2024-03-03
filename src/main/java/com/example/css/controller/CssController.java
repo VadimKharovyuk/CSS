@@ -14,4 +14,12 @@ public class CssController {
     public String tho(){
         return "class_id";
     }
+    @GetMapping("/three")
+    public String three (){
+        return "border";
+    }
+    @GetMapping("/display")
+    public String display(){
+        return "display";
+    }
 }

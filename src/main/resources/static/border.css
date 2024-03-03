@@ -1,0 +1,28 @@
+body{
+    background: #d4e6ee;
+}
+.border{
+
+
+    border: 1px solid #20773d;
+    border-bottom-left-radius: 5px ;
+    border-top-left-radius: 4px ;
+
+}
+div{
+    background: #d581af;
+    text-align: center;
+    cursor: pointer;
+
+}
+.some:hover{
+    background: orange;
+}
+.buton:hover{
+    background: #550dcb;
+
+}
+.buton:focus{
+    outline: none;
+    background: #47d516;
+}
