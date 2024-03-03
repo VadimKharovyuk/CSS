@@ -13,15 +13,17 @@
     display:  inline-block;
     background: #e7d50d;
     width: 30%;
-    height: 90%;
+    height: 75%;
 
 }
 .main{
     display:  inline-block;
     background: #da0e0e;
-    width: 68%;
-    height:90%;
-
-
-
+    width: 69%;
+    height:75%;
+}
+.footer{
+    background : #3a8c1e;
+    width: 100%;
+    height: 20%;
 }
